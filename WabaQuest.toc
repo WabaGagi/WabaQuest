@@ -3,6 +3,7 @@
 ## Notes: Auto-accepts and auto-turns-in quests; tracks counts and reports them via /wabaquest
 ## Author: WabaGagi
 ## Version: 0.4.0
+## X-Curse-Project-ID: 1703203
 ## SavedVariables: WabaQuestDB, WabaQuestSettingsDB
 
 Core.lua
