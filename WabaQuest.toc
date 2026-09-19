@@ -1,0 +1,10 @@
+## Interface: @toc-version-forever@
+## Title: WabaQuest
+## Notes: Auto-accepts and auto-turns-in quests; tracks counts and reports them via /wabaquest
+## Author: codey2557
+## Version: 0.4.0
+## SavedVariables: WabaQuestDB, WabaQuestSettingsDB
+
+Core.lua
+Init.lua
+Minimap.lua
