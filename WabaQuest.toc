@@ -1,7 +1,7 @@
 ## Interface: @toc-version-forever@
 ## Title: WabaQuest
 ## Notes: Auto-accepts and auto-turns-in quests; tracks counts and reports them via /wabaquest
-## Author: codey2557
+## Author: WabaGagi
 ## Version: 0.4.0
 ## SavedVariables: WabaQuestDB, WabaQuestSettingsDB
 
